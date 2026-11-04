@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://krisztiankasos.mindease.ca/sitemap.xml
+Sitemap: https://krisztiankasos.com/sitemap.xml

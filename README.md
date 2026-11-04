@@ -16,11 +16,11 @@ What is included:
 - `sitemap.xml`
 
 Resulting URLs:
-- `https://krisztiankasos.mindease.ca/`
-- `https://krisztiankasos.mindease.ca/en/`
-- `https://krisztiankasos.mindease.ca/hu/`
+- `https://krisztiankasos.com/`
+- `https://krisztiankasos.com/en/`
+- `https://krisztiankasos.com/hu/`
 
 GitHub Pages:
 - Push these files to the branch GitHub Pages is serving.
 - In GitHub `Settings` > `Pages`, publish from your main branch and root.
-- Keep the custom domain set to `krisztiankasos.mindease.ca`.
+- Keep the custom domain set to `krisztiankasos.com`.
